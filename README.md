@@ -1,4 +1,12 @@
-## 사용해 본 기술
+## 1. GitHub
+
+### TIL : [Eu4ng/TIL/Issues](https://github.com/Eu4ng/TIL/issues)
+
+### Unity : [E4-Unity/Repositories](https://github.com/orgs/E4-Unity/repositories)
+
+### Unreal Engine : [E4-Unreal/Repositories](https://github.com/orgs/E4-Unreal/repositories)
+
+## 2. 기술
 
 ### 개발
 
@@ -14,6 +22,11 @@
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 
 ![Blender](https://img.shields.io/badge/blender-%23E87D0D.svg?style=for-the-badge&logo=blender&logoColor=white)
+
+### 프로젝트
+
+![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ### 서버
 

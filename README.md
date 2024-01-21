@@ -1,10 +1,12 @@
-## 1. GitHub
+## 1. 프로필
+
+### Notion 포트폴리오 : https://eu4ng.notion.site/6c639babf1994bcf84cb0bb8e18f2f01?pvs=4
 
 ### TIL : [Eu4ng/TIL/Issues](https://github.com/Eu4ng/TIL/issues)
 
-### Unity : [E4-Unity/Repositories](https://github.com/orgs/E4-Unity/repositories)
+### Unity GitHub 저장소 : [E4-Unity/Repositories](https://github.com/orgs/E4-Unity/repositories)
 
-### Unreal Engine : [E4-Unreal/Repositories](https://github.com/orgs/E4-Unreal/repositories)
+### Unreal Engine GitHub 저장소 : [E4-Unreal/Repositories](https://github.com/orgs/E4-Unreal/repositories)
 
 ## 2. 기술
 
